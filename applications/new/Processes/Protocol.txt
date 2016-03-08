@@ -1,0 +1,257 @@
+Value	Protocol	References
+0 HOPOPT, IPv6 Hop-by-Hop Option.(0)
+1 ICMP, Internet Control Message Protocol.(1)
+2 IGAP, IGMP for user Authentication Protocol. IGMP, Internet Group Management Protocol. RGMP, Router-port Group Management Protocol.(2)
+3 GGP, Gateway to Gateway Protocol.(3)
+4 IP in IP encapsulation.(4)
+5 ST, Internet Stream Protocol.(5)
+6 TCP, Transmission Control Protocol.(6)
+7 UCL, CBT.(7)
+8 EGP, Exterior Gateway Protocol.(8)
+9 IGRP, Interior Gateway Routing Protocol.(9)
+10 BBN RCC Monitoring.(10)
+11 NVP, Network Voice Protocol.(11)
+12 PUP.(12)
+13 ARGUS.(13)
+14 EMCON, Emission Control Protocol.
+15 XNET, Cross Net Debugger.
+16 Chaos.
+17 UDP, User Datagram Protocol.
+18 TMux, Transport Multiplexing Protocol.
+19 DCN Measurement Subsystems.
+20 HMP, Host Monitoring Protocol.
+21 Packet Radio Measurement.
+22 XEROX NS IDP.
+23 Trunk-1.
+24 Trunk-2.
+25 Leaf-1.
+26 Leaf-2.
+27 RDP, Reliable Data Protocol.
+28 IRTP, Internet Reliable Transaction Protocol.
+29 ISO Transport Protocol Class 4.
+30 NETBLT, Network Block Transfer.
+31 MFE Network Services Protocol.
+32 MERIT Internodal Protocol.
+33 DCCP, Datagram Congestion Control Protocol.
+34 Third Party Connect Protocol.
+35 IDPR, Inter-Domain Policy Routing Protocol.
+36 XTP, Xpress Transfer Protocol.
+37 Datagram Delivery Protocol.
+38 IDPR, Control Message Transport Protocol.
+39 TP++ Transport Protocol.
+40 IL Transport Protocol.
+41 IPv6 over IPv4.
+42 SDRP, Source Demand Routing Protocol.
+43 IPv6 Routing header.
+44 IPv6 Fragment header.
+45 IDRP, Inter-Domain Routing Protocol.
+46 RSVP, Reservation Protocol.
+47 GRE, General Routing Encapsulation.
+48 DSR, Dynamic Source Routing Protocol.
+49 BNA.
+50 ESP, Encapsulating Security Payload.
+51 AH, Authentication Header.
+52 I-NLSP, Integrated Net Layer Security TUBA.
+53 SWIPE, IP with Encryption.
+54 NARP, NBMA Address Resolution Protocol.
+55 Minimal Encapsulation Protocol.
+56 TLSP, Transport Layer Security Protocol using Kryptonet key management.
+57 SKIP.
+58 ICMPv6, Internet Control Message Protocol for IPv6. MLD, Multicast Listener Discovery.
+59 IPv6 No Next Header.
+60 IPv6 Destination Options.
+61 Any host internal protocol.
+62 CFTP.
+63 Any local network.
+64 SATNET and Backroom EXPAK.
+65 Kryptolan.
+66 MIT Remote Virtual Disk Protocol.
+67 Internet Pluribus Packet Core.
+68 Any distributed file system.
+69 SATNET Monitoring.
+70 VISA Protocol.
+71 Internet Packet Core Utility.
+72 Computer Protocol Network Executive.
+73 Computer Protocol Heart Beat.
+74 Wang Span Network.
+75 Packet Video Protocol.
+76 Backroom SATNET Monitoring.
+77 SUN ND PROTOCOL-Temporary.
+78 WIDEBAND Monitoring.
+79 WIDEBAND EXPAK.
+80 ISO-IP.
+81 VMTP, Versatile Message Transaction Protocol.
+82 SECURE-VMTP
+83 VINES.
+84 TTP.
+85 NSFNET-IGP.
+86 Dissimilar Gateway Protocol.
+87 TCF.
+88 EIGRP.
+89 OSPF, Open Shortest Path First Routing Protocol. MOSPF, Multicast Open Shortest Path First.
+90 Sprite RPC Protocol.
+91 Locus Address Resolution Protocol.
+92 MTP, Multicast Transport Protocol.
+93 AX.25.
+94 IP-within-IP Encapsulation Protocol.
+95 Mobile Internetworking Control Protocol.
+96 Semaphore Communications Sec. Pro.
+97 EtherIP.
+98 Encapsulation Header.
+99 Any private encryption scheme.
+100 GMTP.
+101 IFMP, Ipsilon Flow Management Protocol.
+102	PNNI over IP.
+103	PIM, Protocol Independent Multicast.
+104	ARIS.
+105	SCPS.
+106	QNX.
+107	Active Networks.
+108	IPPCP, IP Payload Compression Protocol.
+109	SNP, Sitara Networks Protocol.
+110	Compaq Peer Protocol.
+111	IPX in IP.
+112	VRRP, Virtual Router Redundancy Protocol.
+113	PGM, Pragmatic General Multicast.
+114	any 0-hop protocol.
+115	L2TP, Level 2 Tunneling Protocol.
+116	DDX, D-II Data Exchange.
+117	IATP, Interactive Agent Transfer Protocol.
+118	ST, Schedule Transfer.
+119	SRP, SpectraLink Radio Protocol.
+120	UTI.
+121	SMP, Simple Message Protocol.
+122	SM.
+123	PTP, Performance Transparency Protocol.
+124	ISIS over IPv4.
+125	FIRE.
+126	CRTP, Combat Radio Transport Protocol.
+127	CRUDP, Combat Radio User Datagram.
+128	SSCOPMCE.
+129	IPLT.
+130	SPS, Secure Packet Shield.
+131	PIPE, Private IP Encapsulation within IP.
+132	SCTP, Stream Control Transmission Protocol.
+133	Fibre Channel.
+134	RSVP-E2E-IGNORE.
+135	Mobility Header.
+136	UDP-Lite, Lightweight User Datagram Protocol.
+137	MPLS in IP.
+138	MANET protocols.
+139	HIP, Host Identity Protocol.
+140	Shim6, Level 3 Multihoming Shim Protocol for IPv6.
+141	WESP, Wrapped Encapsulating Security Payload.
+142	ROHC, RObust Header Compression.
+143 reserved;
+144 reserved;
+145 reserved;
+146 reserved;
+147 reserved;
+148 reserved;
+149 reserved;
+150 reserved;
+151 reserved;
+152 reserved;
+153 reserved;
+154 reserved;
+155 reserved;
+156 reserved;
+157 reserved;
+158 reserved;
+159 reserved;
+160 reserved;
+161 reserved;
+162 reserved;
+163 reserved;
+164 reserved;
+165 reserved;
+166 reserved;
+167 reserved;
+168 reserved;
+169 reserved;
+170 reserved;
+171 reserved;
+172 reserved;
+173 reserved;
+174 reserved;
+175 reserved;
+176 reserved;
+177 reserved;
+178 reserved;
+179 reserved;
+180 reserved;
+181 reserved;
+182 reserved;
+183 reserved;
+184 reserved;
+185 reserved;
+186 reserved;
+187 reserved;
+188 reserved;
+189 reserved;
+190 reserved;
+191 reserved;
+192 reserved;
+193 reserved;
+194 reserved;
+195 reserved;
+196 reserved;
+197 reserved;
+198 reserved;
+199 reserved;
+200 reserved;
+201 reserved;
+202 reserved;
+203 reserved;
+204 reserved;
+205 reserved;
+206 reserved;
+207 reserved;
+208 reserved;
+209 reserved;
+210 reserved;
+211 reserved;
+212 reserved;
+213 reserved;
+214 reserved;
+215 reserved;
+216 reserved;
+217 reserved;
+218 reserved;
+219 reserved;
+220 reserved;
+221 reserved;
+222 reserved;
+223 reserved;
+224 reserved;
+225 reserved;
+226 reserved;
+227 reserved;
+228 reserved;
+229 reserved;
+230 reserved;
+231 reserved;
+232 reserved;
+233 reserved;
+234 reserved;
+235 reserved;
+236 reserved;
+237 reserved;
+238 reserved;
+239 reserved;
+240 reserved;
+241 reserved;
+242 reserved;
+243 reserved;
+244 reserved;
+245 reserved;
+246 reserved;
+247 reserved;
+248 reserved;
+249 reserved;
+250 reserved;
+251 reserved;
+252 reserved;
+253 reserved;
+254	Experimentation and testing.
+255	reserved.
