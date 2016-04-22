@@ -1,0 +1,46 @@
+c:\users\kim\documents\visual studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\bin\Debug\NetsecManagerv3.exe.config
+c:\users\kim\documents\visual studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.vbprojResolveAssemblyReference.cache
+c:\users\kim\documents\visual studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Resources.resources
+c:\users\kim\documents\visual studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.vbproj.GenerateResource.Cache
+c:\users\kim\documents\visual studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.xml
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\bin\Debug\NetsecManagerv3.exe
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\bin\Debug\NetsecManagerv3.pdb
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\bin\Debug\NetsecManagerv3.xml
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form1.resources
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.exe
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.pdb
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form2.resources
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form3.resources
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form4.resources
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form5.resources
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form6.resources
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form7.resources
+C:\Users\Yan Wisdom\Desktop\NetsecManagerv3\NetsecManagerv3\bin\Debug\NetsecManagerv3.exe.config
+C:\Users\Yan Wisdom\Desktop\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.exe
+C:\Users\Yan Wisdom\Desktop\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.xml
+C:\Users\Yan Wisdom\Desktop\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.pdb
+C:\Users\Kim\Desktop\NetsecManagerv3\NetsecManagerv3\bin\Debug\NetsecManagerv3.exe.config
+C:\Users\Kim\Desktop\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.exe
+C:\Users\Kim\Desktop\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.xml
+C:\Users\Kim\Desktop\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.pdb
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form8.resources
+C:\Users\Kim\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\bin\Debug\MySql.Data.dll
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\bin\Debug\NetsecManagerv3.exe.config
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.exe
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.xml
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.pdb
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\bin\Debug\NetsecManagerv3.exe
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\bin\Debug\NetsecManagerv3.pdb
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\bin\Debug\NetsecManagerv3.xml
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.vbprojResolveAssemblyReference.cache
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form1.resources
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form2.resources
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form3.resources
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form4.resources
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form5.resources
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form6.resources
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form7.resources
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form8.resources
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Resources.resources
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.vbproj.GenerateResource.Cache
+C:\Users\Yan Wisdom\Documents\Visual Studio 2015\Projects\NetsecManagerv3\NetsecManagerv3\obj\Debug\NetsecManagerv3.Form9.resources
